@@ -180,15 +180,15 @@
 					background-size:12px 12px
 					background-repeat:no-repeat
 					&.decrease
-						bg-image('decrease_3')
+						background-image: url("./i/decrease_3.png")
 					&.discount
-						bg-image('discount_3')
+						background-image: url("./i/discount_3.png")
 					&.guarantee
-						bg-image('guarantee_3')
+						background-image: url("./i/guarantee_3.png")
 					&.invoice
-						bg-image('invoice_3')
+						background-image: url("./i/invoice_3.png")
 					&.special
-						bg-image('special_3')
+						background-image: url("./i/special_3.png")
 				.text
 					display: table-cell
 					height:54px

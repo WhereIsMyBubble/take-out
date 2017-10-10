@@ -61,11 +61,11 @@
 				&:last-child
 					margin-right:0
 				&.on
-					bg-image('star48_on')
+					background-image: url("./i/star48_on.png")
 				&.half
-					bg-image('star48_half')
+					background-image: url("./i/star48_half.png")
 				&.off
-					bg-image('star48_off')
+					background-image: url("./i/star48_off.png")
 		&.star-36
 			.star-item
 				width:15px
@@ -75,11 +75,11 @@
 				&:last-child
 					margin-right:0
 				&.on
-					bg-image('star36_on')
+					background-image: url("./i/star36_on.png")
 				&.half
-					bg-image('star36_half')
+					background-image: url("./i/star36_half.png")
 				&.off
-					bg-image('star36_off')
+					background-image: url("./i/star36_off.png")
 		&.star-24
 			.star-item
 				width:10px
@@ -89,12 +89,9 @@
 				&:last-child
 					margin-right:0
 				&.on
-					bg-image('star24_on')
+					background-image: url("./i/star24_on.png")
 				&.half
-					bg-image('star24_half')
+					background-image: url("./i/star24_half.png")
 				&.off
-					bg-image('star24_off')
-
-	
-
+					background-image: url("./i/star24_off.png")
 </style>
